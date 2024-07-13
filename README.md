@@ -5,6 +5,7 @@
 ## Description
 This project demonstrates how to use an ESP32 to retrieve data from a database via HTTP requests. Depending on the data received, the ESP32 controls two LEDs (green and red) to signal whether a specific command is present or not. The simulation is conducted using [Wokwi](https://wokwi.com/), an online platform for IoT project simulations.
 
+
 ### Components Used
 * ESP32 
 * Green LED
@@ -47,17 +48,8 @@ This project demonstrates how to use an ESP32 to retrieve data from a database v
 * If there is no command recorded, the red LED will light up.
 ![image](https://github.com/user-attachments/assets/229d0096-ac6d-49be-a7da-b8c44a451121)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/229d0096-ac6d-49be-a7da-b8c44a451121" alt="Robotic Arm Image 1" width="400" height="400">
-</p>
-
 * If a command is present, the green LED will light up.
 ![image](https://github.com/user-attachments/assets/795f407d-fb1f-4bb7-a489-0a622a6f88de)
-
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/795f407d-fb1f-4bb7-a489-0a622a6f88de" alt="Robotic Arm Image 1" width="400" height="400">
-</p>
 
 
 ## Acknowledgements
