@@ -21,7 +21,7 @@ This project demonstrates how to use an ESP32 to retrieve data from a database v
 
 ### Usage
 
-. Configure your WiFi credentials:
+* Configure your WiFi credentials:
      ```php
      const char* ssid = "Wokwi-GUEST";
      const char* pass = "";
@@ -29,16 +29,16 @@ This project demonstrates how to use an ESP32 to retrieve data from a database v
 
 ### Upload the Code to the ESP32
 
-1. Click on the "Start Simulation" button in Wokwi.
+* Click on the "Start Simulation" button in Wokwi.
 
 ### Monitor the Serial Output
 
-1. Use the Serial Monitor in Wokwi to see the output.
+* Use the Serial Monitor in Wokwi to see the output.
 
 ### Host Your PHP File
-1. Ensure your PHP backend is hosted and accessible via a URL. The provided code uses the URL https://64f2844d-d3fd-455b-a192-2ca85e7199ec-00-2oovwbfrq1lzh.sisko.replit.dev/.
+* Ensure your PHP backend is hosted and accessible via a URL. The provided code uses the URL https://64f2844d-d3fd-455b-a192-2ca85e7199ec-00-2oovwbfrq1lzh.sisko.replit.dev/.
 
-3. Replace the URL in the code with your hosted PHP file URL.
+* Replace the URL in the code with your hosted PHP file URL.
 
 
 ### Result / Output
