@@ -18,7 +18,7 @@ This project demonstrates how to use an ESP32 to retrieve data from a database v
 
 3. Use the following code in your Wokwi project:
 
-### sage
+### Usage
 
 1. Open the esp32-http-request-project.ino file in Wokwi.
 
@@ -37,9 +37,9 @@ This project demonstrates how to use an ESP32 to retrieve data from a database v
 1. Use the Serial Monitor in Wokwi to see the output.
 
 ### Host Your PHP File
-1. Ensure your PHP backend is hosted and accessible via a URL. The provided code uses the URL https://64f2844d-d3fd-455b-a192-2ca85e7199ec-00-2oovwbfrq1lzh.sisko.replit.
+1. Ensure your PHP backend is hosted and accessible via a URL. The provided code uses the URL https://64f2844d-d3fd-455b-a192-2ca85e7199ec-00-2oovwbfrq1lzh.sisko.replit.dev/.
 
-2. Replace the URL in the code with your hosted PHP file URL.
+3. Replace the URL in the code with your hosted PHP file URL.
 
 
 ## Acknowledgements
@@ -51,7 +51,7 @@ This project demonstrates how to use an ESP32 to retrieve data from a database v
 
 1. **Database Setup:**
 
-   - Create a MySQL database named `robot`:
+   - Create a MySQL database named ``:
      ```
      const char* ssid = "Wokwi-GUEST";
      const char* pass = "";
