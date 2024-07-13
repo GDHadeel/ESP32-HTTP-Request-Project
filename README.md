@@ -17,7 +17,7 @@ This project demonstrates how to use an ESP32 to retrieve data from a database v
 
 2. Create a new project and set up the ESP32 with the green and red LEDs.
 
-3. Use the following code in your Wokwi project: "https://github.com/GDHadeel/ESP32-HTTP-Request-Project/blob/main/sketch.ino"
+3. Use the following code in your Wokwi project: https://github.com/GDHadeel/ESP32-HTTP-Request-Project/blob/main/sketch.ino
 
 ### Usage
 
