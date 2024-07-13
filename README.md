@@ -28,7 +28,7 @@ This project demonstrates how to use an ESP32 to retrieve data from a database v
 * Use the Serial Monitor in Wokwi to see the output.
 
 ### Host Your PHP File
-* Ensure your PHP backend is hosted and accessible via a URL. The provided code uses the URL
+* Ensure your PHP backend is hosted and accessible via a URL. 
 
 * Replace the URL in the code with your hosted PHP file URL.
 
