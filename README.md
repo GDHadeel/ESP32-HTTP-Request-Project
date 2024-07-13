@@ -42,6 +42,11 @@ This project demonstrates how to use an ESP32 to retrieve data from a database v
 3. Replace the URL in the code with your hosted PHP file URL.
 
 
+### Result
+
+<img src="https://github.com/DeemaEssam/DeemaEssam.github.io/assets/106381596/485db32d-0524-4e54-8600-e9070a451e24" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="500" height="300" />
+
+
 ## Acknowledgements
 
 
