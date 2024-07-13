@@ -42,9 +42,22 @@ This project demonstrates how to use an ESP32 to retrieve data from a database v
 3. Replace the URL in the code with your hosted PHP file URL.
 
 
-### Result
+### Result / Output
 
-<img src="https://github.com/DeemaEssam/DeemaEssam.github.io/assets/106381596/485db32d-0524-4e54-8600-e9070a451e24" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="500" height="300" />
+* If there is no command recorded, the red LED will light up.
+![image](https://github.com/user-attachments/assets/229d0096-ac6d-49be-a7da-b8c44a451121)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/229d0096-ac6d-49be-a7da-b8c44a451121" alt="Robotic Arm Image 1" width="400" height="400">
+</p>
+
+* If a command is present, the green LED will light up.
+![image](https://github.com/user-attachments/assets/795f407d-fb1f-4bb7-a489-0a622a6f88de)
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/795f407d-fb1f-4bb7-a489-0a622a6f88de" alt="Robotic Arm Image 1" width="400" height="400">
+</p>
 
 
 ## Acknowledgements
