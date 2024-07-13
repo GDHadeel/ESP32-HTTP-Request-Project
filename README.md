@@ -54,6 +54,9 @@ This project demonstrates how to use an ESP32 to retrieve data from a database v
 
 ## Acknowledgements
 
+https://wokwi.com/projects/393020133767191553
+
+https://www.youtube.com/watch?v=9Vw5Y8SRi74
 
 
 
