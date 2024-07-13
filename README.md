@@ -19,14 +19,6 @@ This project demonstrates how to use an ESP32 to retrieve data from a database v
 
 3. Use the following code in your Wokwi project: https://github.com/GDHadeel/ESP32-HTTP-Request-Project/blob/main/sketch.ino
 
-### Usage
-
-* Configure your WiFi credentials:
-     ```php
-     const char* ssid = "Wokwi-GUEST";
-     const char* pass = "";
-     ```
-
 ### Upload the Code to the ESP32
 
 * Click on the "Start Simulation" button in Wokwi.
