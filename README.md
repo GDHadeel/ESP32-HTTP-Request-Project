@@ -17,7 +17,7 @@ This project demonstrates how to use an ESP32 to retrieve data from a database v
 
 2. Create a new project and set up the ESP32 with the green and red LEDs.
 
-3. Use the following code in your Wokwi project:
+3. Use the following code in your Wokwi project: "https://github.com/GDHadeel/ESP32-HTTP-Request-Project/blob/main/sketch.ino"
 
 ### Usage
 
@@ -46,25 +46,15 @@ This project demonstrates how to use an ESP32 to retrieve data from a database v
 ### Result / Output
 
 * If there is no command recorded, the red LED will light up.
-![image](https://github.com/user-attachments/assets/229d0096-ac6d-49be-a7da-b8c44a451121)
+![image](https://github.com/user-attachments/assets/795f407d-fb1f-4bb7-a489-0a622a6f88de)
 
 * If a command is present, the green LED will light up.
-![image](https://github.com/user-attachments/assets/795f407d-fb1f-4bb7-a489-0a622a6f88de)
+![image](https://github.com/user-attachments/assets/229d0096-ac6d-49be-a7da-b8c44a451121)
 
 
 ## Acknowledgements
 
 
 
-
-
-
-1. **Database Setup:**
-
-   - Create a MySQL database named ``:
-     ```
-     const char* ssid = "Wokwi-GUEST";
-     const char* pass = "";
-     ```
 
 
